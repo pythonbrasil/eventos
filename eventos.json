@@ -49,8 +49,12 @@
     "start": "2019-08-13T07:00:00-05:00"
   },
   {
-    "title": "Click for Google",
-    "url": "http://google.com/",
-    "start": "2019-08-28"
+    "title": "Python Nordeste",
+    "url": "https://2020.pythonnordeste.org/",
+    "start": "2020-07-17"
+    "end":"2020-07-19"
   }
+  
+
+
 ]
